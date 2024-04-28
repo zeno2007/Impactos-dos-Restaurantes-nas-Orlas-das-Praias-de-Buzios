@@ -1,0 +1,48 @@
+body {
+    color: #000000;
+    height: 100vh;
+    background-color: #fafad2;
+    background-image: url("midia/paisagem-praia-dos-ossos-buzios-rj.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+main{
+    background-color: #fafad2;
+    width: 400px;
+    padding: 10px;
+    margin: auto;
+    border-radius: 20px;
+    align-items: center;
+}
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+.caixa {
+    float: left;
+    margin-left: 10px;
+    margin-right: auto;
+    margin-top: auto;
+}
+.caixa2 {
+    display: flex;
+    float: right;
+    margin-right: 10px;
+    margin-left: auto;
+    margin-top: auto;
+}
+::-webkit-scrollbar-thumb{
+    width: 10px;
+    background-color: #fafad2;
+    border: 5px solid #fafad2;
+}
+::-webkit-scrollbar-thumb{
+    background-color: #7fffd4;
+    border-radius: 50px;
+    border: 2px solid #fafad2;
+}

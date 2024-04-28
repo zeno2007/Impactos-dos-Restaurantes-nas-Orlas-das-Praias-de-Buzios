@@ -1,0 +1,34 @@
+{
+    color: #ffffff;
+    background: preto;
+    text-align: center;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+. container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+. txt0, . txt1 {
+    margin-bottom: 30px;
+}
+a {
+    cor: #808080;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+::-webkit-scrollbar-thumb{
+    width: 10px;
+    background-color: #000000;
+    border: 5px sólido #000000;
+}
+::-webkit-scrollbar-thumb{
+    background-color: #808080;
+    border-radius: 50px;
+    border: 2px solid #000000;
+}
